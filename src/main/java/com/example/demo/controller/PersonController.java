@@ -48,9 +48,9 @@ public class PersonController {
         }
 
         */
-        @DeleteMapping("deleteStudent/{ID}")
+        @DeleteMapping("deleteEntry/{ID}")
         public ResponseEntity<String> deletePerson(@PathVariable("ID") Integer ID){
             service.deletePerson(ID);
-            return new ResponseEntity<String>("Person with '"+ID+"' has been deleted",HttpStatus.OK);
+            return new ResponseEntity<String>("Entry with '"+ID+"' has been deleted",HttpStatus.OK);
         }
 }

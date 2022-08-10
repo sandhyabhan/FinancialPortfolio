@@ -7,9 +7,9 @@ import javax.persistence.*;
 public class StockWrapper {
 
     @Id
-    @GeneratedValue
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long stock_ID;
-    private String Company_Name;
+    private String company_name;
     private Integer number_stocks;
     private double open_price;
     private double close_price;
@@ -25,12 +25,12 @@ public class StockWrapper {
         this.stock_ID = stock_ID;
     }
 
-    public String getCompany_Name() {
-        return Company_Name;
+    public String getcompany_name() {
+        return company_name;
     }
 
-    public void setCompany_Name(String company_Name) {
-        Company_Name = company_Name;
+    public void setcompany_name(String company_name) {
+        this.company_name = company_name;
     }
 
     public Integer getNumber_stocks() {
