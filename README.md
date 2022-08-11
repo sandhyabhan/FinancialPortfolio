@@ -1,10 +1,10 @@
-# FinancialPortfolio
+# Financial Portfolio
 ## So you’re ready to start investing. That’s great. Putting your money to work with a successful investing strategy is the foundation to generating long-term wealth. Whether you realize it or not, you’re going to be building a financial portfolio. And we have made it easy for you :)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Finacial_Protfolio is a userfriendly webapp to use.
-It is a SpringBoot powered Web Application for Stock Data Analysis.
+It is a SpringBoot powered Web Application which is going to make it easy for you to manage your investments.
 
 ## Features
 
