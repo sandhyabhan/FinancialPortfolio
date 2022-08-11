@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Finacial_Protfolio is a userfriendly webapp to use.
+Financial Portfolio is a userfriendly webapp to use.
 It is a SpringBoot powered Web Application which is going to make it easy for you to manage your investments.
 
 ## Features
