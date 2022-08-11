@@ -1,6 +1,5 @@
 # FinancialPortfolio
-## So you’re ready to start investing. That’s great. Putting your money to work with a successful investing strategy is the foundation to generating long-term wealth.
-   Whether you realize it or not, you’re going to be building a financial portfolio.And we have made it easy for you :)
+## So you’re ready to start investing. That’s great. Putting your money to work with a successful investing strategy is the foundation to generating long-term wealth. Whether you realize it or not, you’re going to be building a financial portfolio. And we have made it easy for you :)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
